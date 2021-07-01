@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Upload Media 📽️</title>
+  </head>
+  <body>
+  <h1>Upload your media to your Movie directory 🎬</h1>
+
+    <form
+      enctype="multipart/form-data"
+      action="http://localhost:8080/uploadMovie"
+      method="post"
+    >
+      <input type="file" name="movieFile" />
+      <input type="submit" value="uploadMovie" />
+    </form>
+	
+	
+	  <h1>Upload your media to your Music directory 🎼</h1>
+	
+	<form
+      enctype="multipart/form-data"
+      action="http://localhost:8080/uploadMusic"
+      method="post"
+    >
+      <input type="file" name="musicFile" />
+      <input type="submit" value="uploadMusic" />
+    </form>
+	
+	<br>
+	<br>
+	<br>
+<a href="http://localhost:8080/media">Media Listing 📽️</a>
+
+	
+  </body>
+</html>
