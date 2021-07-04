@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="DdFCSChTBhEi3ZNZoWPTAYjybV6j3i5ppd4IUmkmv1M" />
+
 # GoSimpleFileServer
 Simple File Server in Go 
 
