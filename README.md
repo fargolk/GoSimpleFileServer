@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="DdFCSChTBhEi3ZNZoWPTAYjybV6j3i5ppd4IUmkmv1M" />
+<head><meta name="google-site-verification" content="DdFCSChTBhEi3ZNZoWPTAYjybV6j3i5ppd4IUmkmv1M" /></head>
 
 # GoSimpleFileServer
 Simple File Server in Go 
